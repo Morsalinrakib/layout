@@ -1,0 +1,49 @@
+.container{
+	overflow: hidden;
+	padding: 5px;
+}
+
+.content{
+	width: 75%;
+	min-height: 150px;
+	background-color: black;
+	float: left;
+}
+.content2{
+	width: 25%;
+	min-height:  150px;
+	background-color: blue;
+	float: right;
+}
+
+.wrapper{
+	overflow: hidden;
+	padding: 5px;
+}
+
+.box{
+	float: left; 
+	width: 33.33%;
+	min-height: 150px;
+}
+
+.no1{
+	background-color: red;
+}
+
+.no2{
+	background-color: green;
+}
+
+.no3{
+	background-color: yellow;
+}
+
+.blog{
+	float: left;
+	width: 25%;
+	min-height: 150px;
+}
+.no{
+	background-color: teal;
+}
